@@ -1,2 +1,6 @@
-# Programação-orientada-a-objetos---3-Semestre
+# Programação Orientada a Objetos / 3º Semestre
+## Equipe
+- Ana Clara Godoy
+- Levi Motta
+- Marcelo Uchoas
 
