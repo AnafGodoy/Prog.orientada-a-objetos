@@ -3,4 +3,4 @@
 - Ana Clara Godoy
 - Levi Motta
 - Marcelo Uchoas
-
+- Victor Yuki
