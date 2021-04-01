@@ -1,4 +1,7 @@
 # Programação Orientada a Objetos / 3º Semestre
+
+## O projeto
+Será desenvovido uma agenda de clientes para o WB (World Beauty) contando com informações essenciais para o controle de clientes
 ## Equipe
 - [Ana Clara Godoy](https://github.com/AnafGodoy)
 - [Francisco Cardoso](https://github.com/fCardosoNeto)
