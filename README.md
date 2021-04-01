@@ -11,6 +11,6 @@ Será desenvolvido um software para melhor controle da agenda de clientes da emp
 - [Vitor Yuri Santos](https://guthub.com/Vitor-y)
 
 ## Linguagens utilizada
-- [Java];
--[CSS];
--[HTML].
+- [Java]
+- [CSS]
+- [HTML]
